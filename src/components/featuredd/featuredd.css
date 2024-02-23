@@ -1,0 +1,93 @@
+.featuredd{
+    /* width:100%; */
+    max-width:100vw ;
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    z-index:1;
+}
+
+.featuredItem{
+    position:relative;
+    color:pink;
+    border-radius:10px;
+    overflow: hidden;
+    height:max-content;
+    
+}
+
+.featuredTitle{
+position: absolute;
+bottom: 10px;
+left:20px;
+}
+
+.featuredImg{
+    margin-top: 25%;
+    width: 100%;
+   height: 150px;
+    object-fit: cover;
+
+}
+
+
+
+.listResult{
+    width:100vw;
+    max-width:1224px;
+    /* margin-top: 17vh;; */
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+
+.RingLoader>span{
+   
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: pink; */
+    margin-top: 1rem;
+    
+}
+.RingLoader>p{
+   display: block;
+   width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    /* background-color: pink; */
+    margin-top: 1rem;
+    
+}
+
+.ghotu{
+    display: block;
+    width:max-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:1rem;
+    color:blue;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+
+.thatsall{
+    display: block;
+    width:max-content;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: small;
+}
+
+
+
+.RentalF{
+    /* padding-top: 10vh; */
+    max-width: 1193px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+

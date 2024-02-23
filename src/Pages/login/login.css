@@ -1,0 +1,59 @@
+
+.lcontainer{
+    width:40%;
+   
+    margin-left:auto;
+    margin-right:auto;
+
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+gap:10px;
+}
+
+.lInput{
+   padding:5%;
+   text-align: center;
+    
+}
+
+
+.lButton{
+    border:none;
+    padding:10px 20px;
+    
+    
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.lButton:disabled{
+background-color: #0071c28c;
+cursor: not-allowed;
+}
+
+
+.red{
+    color:red;
+}
+
+h6{
+    padding :10%;
+}
+
+.green{
+    color:green;
+}
+.bgreen{
+    border:0.001rem solid green;
+    color: green;
+}
+
+.note{
+    display:block;
+    width:max-content;
+    margin-left: auto;
+    margin-right: auto;
+}

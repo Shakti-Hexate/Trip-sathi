@@ -1,0 +1,80 @@
+
+
+
+.About11{
+    display: flex;
+    flex-direction: column;
+   
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+ 
+   
+
+}
+
+.About11>img{
+    margin-bottom: 2vh;
+    width:10vw;
+    /* height:15vh; */
+}
+
+.About111{
+    width:90%;
+    max-width: 300px;
+  /* margin:0.2rem 0 !important; */
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(248, 248, 178);
+  border-radius: 0.8rem;
+    box-shadow: -0.25rem 0.50rem rgba(0,0,0,.15)!important;
+
+
+}
+
+
+
+.About12{
+    
+  display: flex;
+  justify-content: space-between;
+  width:90%;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vh;
+
+}
+.About121{
+    background-color: rgb(140, 237, 237);
+   display: flex;
+   flex-direction: column;
+   width:50%;
+   align-items: center;
+   margin:0 5px;
+   border-radius: 0.8rem;
+   box-shadow: -0.25rem 0.50rem rgba(0,0,0,.15)!important;
+
+    }
+    .About122{
+        background-color: pink;
+        display: flex;
+        flex-direction: column;
+        width:50%;
+        align-items: center;
+        border-radius: 0.8rem;
+        box-shadow: -0.25rem 0.50rem rgba(0,0,0,.15)!important;
+         }
+  
+  
+
+         .brandsAbout{
+        width: 40%;
+        max-width: 100px;
+        display: flex;
+        justify-content: space-between;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 2vh;
+    }
